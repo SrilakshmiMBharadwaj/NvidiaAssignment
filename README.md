@@ -14,5 +14,5 @@ node.js and npm installed globally : https://www.taniarascia.com/how-to-install-
 Line 64 - change                                                     
 <img src = {require('/Users/srilakshmi/nvidia_assignment/client_pet_adoption/src/'+picture)} alt = {picture}/>
 to
-<img src = {require('<your-home-path>/nvidia_assignment/client_pet_adoption/src/'+picture)} alt = {picture}/>
+<img src = {require('your-home-path/nvidia_assignment/client_pet_adoption/src/'+picture)} alt = {picture}/>
 
